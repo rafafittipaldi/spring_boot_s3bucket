@@ -1,0 +1,7 @@
+amazonProperties:
+  accessKey: accessKey
+  secretKey: secretKey
+  bucketName: bucketName
+  
+server:
+  port: 8181
